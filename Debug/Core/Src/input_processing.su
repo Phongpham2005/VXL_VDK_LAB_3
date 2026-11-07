@@ -1,0 +1,3 @@
+input_processing.c:23:6:updateTrafficLights	8	static
+input_processing.c:41:6:initTrafficSystem	8	static
+input_processing.c:48:6:fsm_for_input_processing	8	static
